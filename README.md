@@ -1,2 +1,3 @@
-# random-color-generator
+# Random Color Generator
+
 Click a button... generate a random color!
