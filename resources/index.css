@@ -22,10 +22,14 @@ button {
     padding: 0.5rem 2rem;
     border: 2px solid black;
     border-radius: 0.25rem;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
 }
 
 button:hover {
     background-color: antiquewhite;
     cursor: pointer;
+}
+
+p {
+    font-size: 1.5rem;
 }
